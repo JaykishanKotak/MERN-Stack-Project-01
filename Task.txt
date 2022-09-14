@@ -1,0 +1,21 @@
+Task:
+
+Task CRUD operation :
+Nodejs: make apis
+Database: mssql or MongoDB or MySQL
+Frontend: reactjs or vuejs
+User should be able to see data and add update and delete data(use data table)
+Create a data table where users can add, delete, update and view data
+Use Nodejs to make APIs
+Data must be stored in mssql, MongoDB or mysql
+Use Reactjs or Vuejs to create the frontend
+User should be able to see data and add update and delete data (with image upload feature)(use data table)
+Don't include node_modules folder 
+
+Modules :
+ 
+express
+body-parser 
+ejs
+nodemon
+mongoose
